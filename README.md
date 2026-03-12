@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./ativos/Imagem%20ChatGPT%2012%20de%20mar.%20de%202026,%2000_50_09.png" alt="QA Quality Engineering Playbook Banner" width="100%">
+  <img src="assets/qa-workflow-banner.png" width="100%">
 </p>
+
 # 🧪 QA Full Workflow Playbook
 
 This repository was created to organize a complete **Quality Assurance workflow structure**, focused on real market practices in modern software teams.
